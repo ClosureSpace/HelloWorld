@@ -1,1 +1,1 @@
-add_executable(test helloWorld.cpp)
+add_executable(test helloWord.cpp)
